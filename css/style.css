@@ -148,7 +148,7 @@ h3{
 
 .bg{
   margin: 6rem 0;
-  background-image: url('./images/img.jpeg');
+  background-image: url('/images/img.jpeg');
   width: 400px;
   height: 450px;
   background-repeat: no-repeat;
