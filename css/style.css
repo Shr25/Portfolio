@@ -148,7 +148,7 @@ h3{
 
 .bg{
   margin: 6rem 0;
-  background-image: url('/images/img.jpeg');
+  background-image: url('../images/img.jpeg');
   width: 400px;
   height: 450px;
   background-repeat: no-repeat;
@@ -262,20 +262,6 @@ h3{
   letter-spacing: 6px;
 }
 
-
-/* Contact Section */
-.contact-section{
-  height: 30vh;
-}
-
-.contact-section h4{
-  margin-bottom: 5rem;
-  color: #fff;
-  font-size: 3rem;
-  font-weight: lighter;
-  letter-spacing: 6px;
-  text-align: center;
-}
 
 /* Hamburger */
 .hamburger {
